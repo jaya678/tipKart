@@ -14,22 +14,22 @@
  }
  @keyframes background-img {
     0% {
-        background-image: url('https://image.shutterstock.com/image-photo/black-friday-sale-concept-shop-260nw-1522284413.jpg');
+        background-image: url('https://wallpapercave.com/wp/wp2665744.jpg');
       }
       20% {
-        background-image: url('https://image.shutterstock.com/image-photo/black-friday-sale-concept-shopping-260nw-1471051382.jpg');
+        background-image: url('https://images.unsplash.com/photo-1494587351196-bbf5f29cff42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8&w=1000&q=80');
       }
       40% {
         background-image: url('https://image.freepik.com/free-photo/business-woman-black-clothes-with-black-shopping-bags-dark-background-black-friday_134398-10129.jpg');
       }
       60% {
-        background-image: url('https://media.gettyimages.com/photos/directly-above-shot-of-objects-over-black-background-picture-id1250475765?s=612x612');
+        background-image: url('https://bitsum.com/wp-content/uploads/dark-background-images-5561-5821-hd-wallpapers.jpg');
       }
       80% {
-        background-image: url('https://image.shutterstock.com/image-photo/black-friday-sale-concept-shopping-260nw-1471051382.jpg');
+        background-image: url('https://images.unsplash.com/photo-1494587351196-bbf5f29cff42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8&w=1000&q=80');
       }
       100% {
-        background-image: url('https://image.shutterstock.com/image-photo/black-friday-sale-concept-shop-260nw-1522284413.jpg');
+        background-image: url('https://wallpapercave.com/wp/wp2665744.jpg');
       }
  }
   .card{
