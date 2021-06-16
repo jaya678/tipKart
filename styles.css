@@ -14,22 +14,22 @@
  }
  @keyframes background-img {
     0% {
-        background-image: url('https://imgs.mi9.com/uploads/other/4650/i-love-shopping_1920x1200_83229.jpg');
+        background-image: url('https://image.shutterstock.com/image-photo/black-friday-sale-concept-shop-260nw-1522284413.jpg');
       }
       20% {
-        background-image: url('https://media.istockphoto.com/photos/man-at-the-shopping-picture-id868718238?k=6&m=868718238&s=612x612&w=0&h=ZUPCx8Us3fGhnSOlecWIZ68y3H4rCiTnANtnjHk0bvo=');
+        background-image: url('https://image.shutterstock.com/image-photo/black-friday-sale-concept-shopping-260nw-1471051382.jpg');
       }
       40% {
-        background-image: url('https://wallpaperaccess.com/full/1496231.jpg');
+        background-image: url('https://image.freepik.com/free-photo/business-woman-black-clothes-with-black-shopping-bags-dark-background-black-friday_134398-10129.jpg');
       }
       60% {
-        background-image: url('https://i.pinimg.com/originals/4b/15/3c/4b153ced38dab950c8284e04a3f5e045.jpg');
+        background-image: url('https://media.gettyimages.com/photos/directly-above-shot-of-objects-over-black-background-picture-id1250475765?s=612x612');
       }
       80% {
-        background-image: url('https://media.istockphoto.com/photos/man-at-the-shopping-picture-id868718238?k=6&m=868718238&s=612x612&w=0&h=ZUPCx8Us3fGhnSOlecWIZ68y3H4rCiTnANtnjHk0bvo=');
+        background-image: url('https://image.shutterstock.com/image-photo/black-friday-sale-concept-shopping-260nw-1471051382.jpg');
       }
       100% {
-        background-image: url('https://imgs.mi9.com/uploads/other/4650/i-love-shopping_1920x1200_83229.jpg');
+        background-image: url('https://image.shutterstock.com/image-photo/black-friday-sale-concept-shop-260nw-1522284413.jpg');
       }
  }
   .card{
